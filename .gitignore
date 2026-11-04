@@ -1,0 +1,10 @@
+.godot/
+.source-kit/
+build/*
+!build/.gdignore
+dist/
+*.keystore
+*.jks
+android/build/
+android/plugins/
+agent-prompts/*.runtime.log
